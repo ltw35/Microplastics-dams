@@ -8,9 +8,10 @@ View the [related publication](https://doi.org/10.1016/j.scitotenv.2019.02.028)
 2. `Dams_analysis_in_paper_clean.R`: code used to produce analysis and plots included in our paper published in *Science of the Total Environment* (2019). <br>
 3. `Microplastics-dams.Rproj`: If running this locally, .RProj file will allow `.R` code to find `.csv` data file. Be sure to store `.Rproj` file in the same directory with `.R` and `.csv` to be able to run.
 <br>
-<br>
+<br>    
+
 ## Suggested citation for this data
-****
+*****    
 *Attribution 4.0 International*<br>
 We are pleased to allow this data to be used freely in the public, with proper attribution.    
 Our suggested citation:
@@ -27,9 +28,11 @@ Our suggested citation:
 <br>   
 
 ## Metadata about this project & our methods
-**** *
-<br>
-#### Column headers of `Dams_Microplastics_full.csv`    
+*****
+<br>     
+
+#### Column headers of Dams_Microplastics_full.csv   
+
 1. `DamID` the code given to each individual dam in the study.    
 + `FR` = Flatrock, Fall Creek (42.4546706,-76.4562607)    
 + `BL` = Beebe Lake, Fall Creek (42.4519266,-76.4795704)     
