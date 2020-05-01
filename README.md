@@ -10,12 +10,10 @@ View the [related publication in Science of the Total Environment](https://doi.o
 <br>
 <br>    
 
-## Suggested citation for this data
+## Want to use this data?
 *****    
 *Attribution 4.0 International*<br>
-We are pleased to allow this data to be used freely in the public, with proper attribution.    
-Our suggested citation:
-**Watkins, L and McGrattan, S 2019. Data from The effect of dams on river transport of microplastic pollution. Github. Accessed MM/DD/YYYY.**
+We are pleased to allow this data to be used freely in the public, with proper attribution. Please cite this data or the resulting publication.
 
 ## Notes about this project
 *****
@@ -23,7 +21,7 @@ Our suggested citation:
     
 * Samples were collected above, within and below dams+impoundments to determine whether the presence of dams affected the concentration of microplastics in rivers.
     
-* This work was presented at EGU 2019 and is published as `Watkins L, McGrattan S, Sullivan P, Walter MT. (2019). The effect of dams on river transport of microplastic pollution.` [Science of the Total Environment](https://doi.org/10.1016/j.scitotenv.2019.02.028)`. 664: 834-840. DOI: 10.1016/j.scitotenv.2019.02.028`. Please contact me if you have trouble accessing a full-text version of this publication.
+* This work was presented at EGU 2019 and is published as `Watkins L, McGrattan S, Sullivan P, Walter MT. (2019). The effect of dams on river transport of microplastic pollution. Science of the Total Environment. 664: 834-840.` [DOI: 10.1016/j.scitotenv.2019.02.028](https://doi.org/10.1016/j.scitotenv.2019.02.028). Please contact me if you have trouble accessing a full-text version of this publication.
 <br>
 <br>   
 
@@ -41,10 +39,8 @@ Our suggested citation:
 + `2D` = 2nd Dam, Six Mile Creek (42.4247749,-76.5444474)     
 + `1D` = 1st Dam, Six Mile Creek (42.4329239,-76.4848986)
 <br>
-    
 2. `Weight` entered **in kg** for both surface water and sediment samples. Surface water weights are calculated based on an estimated density of 1kg/L. Where for water samples, `Weight` = Sample Volume.
 <br>
-    
 3. `nFiber`-`nBead` The count of particles of each category found via visual inspection for a given sample.
 
 #### Site selection & Sample collection <br>
