@@ -47,9 +47,10 @@ View the [related publication in Science of the Total Environment](https://doi.o
 * Sample processing, counting and data analysis led by Susan McGrattan. [NOAA Protocols](https://marinedebris.noaa.gov/sites/default/files/publications-files/noaa_microplastics_methods_manual.pdf) were followed for sample processing of both water and sediment samples.     
   + After processing, density-separated samples were transfered via vacuum filtration onto a gridded 0.45 um filter paper for easier visual inspection. At random, 44 particles from 4/36 total samples were reexamined using 20× magnification on a WITec Alpha300R Confocal Raman Microscope using a 532nm laser at 1–2mW power.
     
-<br>
+<br>    
 ## Want to use this data?
-*****    
+*****
+    
 *Attribution 4.0 International*<br>
 We are pleased to allow this data to be used freely in the public, with proper attribution. Please cite this data or the resulting publication.
 
