@@ -214,3 +214,36 @@ ggplot(typeset, aes(x=Location, y=Concentration, fill = Category)) +
   theme(axis.title=element_text(size=14),axis.text.x=element_text(size=12,angle=30,hjust=1),axis.text.y=element_text(size=12),strip.text.x = element_text(size = 13))+
   scale_fill_manual(values = c("#CCCCCC","#777888","#333333"),labels = c("Other","Fragment","Fiber"))
 #ggsave("Proport_categories_dam_bw.tiff", height=6, width=8, units='in', dpi=700) 
+
+#Figure S2. Microplastic concentration in (a) sediments and (b) surface water 
+#           plotted from farthest upstream to closest to river mouth, left to right, 
+#           for both of the studied streams. Shapes correlate to sampling location, 
+#           as designated on Figures 1-3. Dams are designated by a single color. 
+#           Lines are to help visualize samples collected around a given dam and 
+#           do not imply known values between sampled locations.
+##Water
+ggplot(data = dataWater, aes(x = distup, y = Concentration, color = DamNum,fill = DamNum, shape = Location))+
+  geom_point(size = 2)+
+  geom_line(aes(group = DamNum))+
+  scale_shape_manual(values = c(24,21,25))+
+  scale_colour_manual(values=cbPalette)+
+  scale_fill_manual(values=cbPalette)+
+  facet_grid(. ~ RiverName, scales = "free_x", space = "free")+
+  labs(x = "Distance upstream from river mouth (km)",y="Concentration (particles / L)",fill = "")+
+  mytheme+
+  guides(size = "none",color = "legend",shape = "legend",fill = "none")+
+  labs(shape="Location", color = "Dam")
+#ggsave("Distup_water.png", dpi=600, height=4, width=5, units="in")
+##Sediment
+ggplot(data = dataSed, aes(x = distup, y = Concentration, color = DamNum,fill = DamNum, shape = Location))+
+  geom_point(size = 2)+
+  geom_line(aes(group = DamNum))+
+  scale_shape_manual(values = c(24,21,25))+
+  scale_colour_manual(values=cbPalette)+
+  scale_fill_manual(values=cbPalette)+
+  facet_grid(. ~ RiverName, scales = "free_x", space = "free")+
+  labs(x = "Distance upstream from river mouth (km)",y="Concentration (particles / L)",fill = "")+
+  mytheme+
+  guides(size = "none",color = "legend",shape = "legend",fill = "none")+
+  labs(shape="Location", color = "Dam")
+#ggsave("Distup_sed_linedownstream.png", dpi=600, height=4, width=5, units="in")
