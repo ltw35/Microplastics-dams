@@ -15,7 +15,7 @@ View the [related publication in Science of the Total Environment](https://doi.o
     
 * Samples were collected above, within and below dams+impoundments to determine whether the presence of dams affected the concentration of microplastics in rivers.
     
-* This work was presented at EGU 2019 and is published as `Watkins L, McGrattan S, Sullivan P, Walter MT. (2019). The effect of dams on river transport of microplastic pollution. Science of the Total Environment. 664: 834-840. DOI:` [10.1016/j.scitotenv.2019.02.028](https://doi.org/10.1016/j.scitotenv.2019.02.028). Please contact me if you have trouble accessing a full-text version of this publication.
+* This work was presented at EGU 2019 and is published as *Watkins L, McGrattan S, Sullivan P, Walter MT. (2019). The effect of dams on river transport of microplastic pollution. Science of the Total Environment. 664: 834-840. DOI:* [10.1016/j.scitotenv.2019.02.028](https://doi.org/10.1016/j.scitotenv.2019.02.028). Please contact me if you have trouble accessing a full-text version of this publication.
 <br>
     
 ## Metadata about this project & our methods
@@ -53,5 +53,6 @@ View the [related publication in Science of the Total Environment](https://doi.o
 *****
     
 *Attribution 4.0 International*<br>
-We are pleased to allow this data to be used freely in the public, with proper attribution. Please cite this data or the resulting publication.
+We are pleased to allow this data to be used freely in the public, with proper attribution. Please cite this data or the resulting publication:    
+*Watkins L, McGrattan S, Sullivan P, Walter MT. (2019). The effect of dams on river transport of microplastic pollution. Science of the Total Environment. 664: 834-840. DOI:* [10.1016/j.scitotenv.2019.02.028](https://doi.org/10.1016/j.scitotenv.2019.02.028)
 
