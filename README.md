@@ -1,6 +1,7 @@
 # Microplastics-dams
 The effect of dams on river transport of microplastic pollution    
-View the [related publication in Science of the Total Environment](https://doi.org/10.1016/j.scitotenv.2019.02.028)
+View the [related publication in Science of the Total Environment](https://doi.org/10.1016/j.scitotenv.2019.02.028):<br>
+*Watkins L, McGrattan S, Sullivan P, Walter MT. (2019). The effect of dams on river transport of microplastic pollution. Science of the Total Environment. 664: 834-840. DOI: 10.1016/j.scitotenv.2019.02.028.*
       
 ## Contents of this repo
 *****
